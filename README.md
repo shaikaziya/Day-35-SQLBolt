@@ -1,1 +1,22 @@
 # Day-35-SQLBolt
+
+![image](https://user-images.githubusercontent.com/105929601/187497706-0315dda2-33e0-4ef8-b47d-d2bb7eadcc63.png)
+![image](https://user-images.githubusercontent.com/105929601/187498165-61e39033-6a29-4ed0-8c64-416af1e00998.png)
+![image](https://user-images.githubusercontent.com/105929601/187498520-171dfd12-ae0f-4c22-a37f-f1cc8f691b95.png)
+![image](https://user-images.githubusercontent.com/105929601/187498733-f225d0af-59b2-4141-b3c3-0a69a9e2ffed.png)
+![image](https://user-images.githubusercontent.com/105929601/187499044-4580dd00-5560-474d-8cfe-7827e59d1411.png)
+![image](https://user-images.githubusercontent.com/105929601/187499268-1a46b7d1-0528-49b9-ac23-f421353b1baa.png)
+![image](https://user-images.githubusercontent.com/105929601/187499495-0acf6bfa-6e9c-43c7-b053-5a747d47a08d.png)
+![image](https://user-images.githubusercontent.com/105929601/187499693-85b7a7ce-bc21-4ec2-ac5c-884305e05e1e.png)
+![image](https://user-images.githubusercontent.com/105929601/187499980-884dbeb1-f43a-4683-b477-1e60d66fa4fa.png)
+![image](https://user-images.githubusercontent.com/105929601/187500212-b45808ec-a1fe-4197-831f-d01c6725c03e.png)
+![image](https://user-images.githubusercontent.com/105929601/187500462-c4764df8-4192-4063-a2b3-209d34f48fbc.png)
+![image](https://user-images.githubusercontent.com/105929601/187500677-2a6adfc8-7765-4d55-8b21-bd1d514020f0.png)
+![image](https://user-images.githubusercontent.com/105929601/187500896-c10eb30d-9255-4b50-aff3-87efe28f40a1.png)
+![image](https://user-images.githubusercontent.com/105929601/187501138-a16508dd-801c-42c8-9058-31b24fe25d13.png)
+![image](https://user-images.githubusercontent.com/105929601/187501313-2e1d34c7-96ca-467a-b992-3f052477e85d.png)
+![image](https://user-images.githubusercontent.com/105929601/187501501-a4c83559-a623-4894-bb15-95cd151e178c.png)
+![image](https://user-images.githubusercontent.com/105929601/187501708-a16eae9c-f7cf-4bed-9daf-ac29e3c5719f.png)
+![image](https://user-images.githubusercontent.com/105929601/187501908-d2f0b88c-1f99-4d66-b25d-01f50464c221.png)
+![image](https://user-images.githubusercontent.com/105929601/187502096-382c5069-a9e2-43fe-b01a-c6ecbd8e8e69.png)
+
